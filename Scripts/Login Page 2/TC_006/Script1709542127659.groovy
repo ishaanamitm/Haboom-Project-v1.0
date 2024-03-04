@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://haboom.com/')
+
+WebUI.setText(findTestObject('Login/User name'), 'sfrtjdtryuj')
+
+WebUI.setEncryptedText(findTestObject('Login/Password'), '0aZJiRMn46oe/nL0bjubhw==')
+
+WebUI.click(findTestObject('Login/Login Button'))
+
+WebUI.setText(findTestObject('Login Page 2/Login Page 2 Email Field'), 'jabbi')
+
+WebUI.click(findTestObject('Login Page 2/Login page 2 Login button'))
+
+WebUI.verifyElementText(findTestObject('Login Page 2/Login page 2 Warning message without password'), 'Please enter password')
+
