@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>without entering password</description>
+   <name>TC_006</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18d59f31-9cb3-475a-bf48-795c85f1b17b</testCaseGuid>
+</TestCaseEntity>

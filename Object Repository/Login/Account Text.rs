@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Account Text</name>
+   <tag></tag>
+   <elementGuidId>6bf7005b-cefe-4b22-9a78-e48604c87409</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ssc-un</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='acco_arr']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2cb116ba-e872-4d92-8669-e5e27c3bbf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ssc-un</value>
+      <webElementGuid>fc00de45-c4ff-4e1a-ba50-3d2db81edbe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>12326683-8f85-427c-af23-c7d98973def5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;acco_arr&quot;)/a[@class=&quot;ssc-unc&quot;]/span[@class=&quot;ssc-un&quot;]</value>
+      <webElementGuid>5585291f-6cb2-46d8-90e6-a157ac86cbbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='acco_arr']/a/span</value>
+      <webElementGuid>2bf53c6d-6c7b-4071-afd9-5d08c693afb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/following::span[4]</value>
+      <webElementGuid>0418b388-d091-43cb-b917-1752175964d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Bets'])[1]/following::span[4]</value>
+      <webElementGuid>32d8ed71-037c-474e-96c7-f592ee9bca78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>af6d082d-793f-4c12-94ba-7a0fabfe6d3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/a/span</value>
+      <webElementGuid>9de22404-f222-497f-a652-d1ccd9f4b964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>1204fe29-628e-447f-9f09-5e2468219cb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
